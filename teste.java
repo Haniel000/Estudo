@@ -6,7 +6,7 @@
 // }
 
 
-// Scanner de Idade + Nome
+// Scanner de Age + Name
 // import java.util.Scanner;
 
 // public class Main{
@@ -27,7 +27,7 @@
 // }
 
 
-// If Else Elif o caralho é else if
+// If, Else and Else if
 
 // public class Main{
 //     public static void main(String[] args){
@@ -44,7 +44,7 @@
 // }
 
 
-// Scanner de número
+// Number Scan
 
 // import java.util.Scanner;
 
@@ -59,7 +59,7 @@
 //         }else if (numero>=30 && numero<=59) {
 //             System.out.println("Número 30 ou maior ");
 //         }else{
-//             System.out.println("vai pra narnia é filho da puta ");
+//             System.out.println("Maior que 60 ");
 //         }
 
 //         scanner.close();
